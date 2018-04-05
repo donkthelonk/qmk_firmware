@@ -9,6 +9,14 @@
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
+/* Layer 0
+ * ,--------------------.
+ * | CALC | MUTE |  F5  |
+ * |--------------------|
+ * | COPY | PASTE| LOCK |
+ * `--------------------'
+ */
 	KEYMAP(
-		CALC, MUTE, KC_F5, COPY, PASTE, LOCK)
+		CALC, MUTE, KC_F5, 
+    COPY, PASTE, LOCK )
 };
