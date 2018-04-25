@@ -2,4 +2,5 @@
 
 Emulates original keymap with added Vol-/Vol+/Mute on the Fn layer
 
-![Original FC660C Keymap](https://i.imgur.com/fg89nez.jpg)
+(pic below is stock fc660c keymap)
+![](https://i.imgur.com/fg89nez.jpg)
